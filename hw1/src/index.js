@@ -1,0 +1,2 @@
+import './simpleLogger/logger.js'
+
