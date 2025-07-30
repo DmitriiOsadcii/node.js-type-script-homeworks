@@ -98,6 +98,6 @@ class Motorcycle extends Vehicle {
     }
 }
 
-const motorcycle = new Motorcycle("Suzuki", "R 18", "Classic")
+const motorcycle = new Motorcycle("Suzuki", "18", "Sport")
 
 console.log(motorcycle);
